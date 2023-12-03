@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Алгоритм RSA</string>
+    <string name="hint">Введите сообщение</string>
+    <string name="title_encrypt_btn">Зашифровать</string>
+    <string name="title_decrypt_btn">Расшифровать</string>
+    <string name="title_encrypt_text">Зашифровать тест</string>
+
+</resources>
